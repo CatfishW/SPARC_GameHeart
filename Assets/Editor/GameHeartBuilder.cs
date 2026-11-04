@@ -63,6 +63,21 @@ namespace GameHeartEditor
 
         static void Build(bool dev)
         {
+            // The build gets a unique timestamped version (used for cache-busting streamed assets);
+            // the tracked ProjectSettings value is restored afterwards so builds leave the tree clean.
+            string trackedVersion = PlayerSettings.bundleVersion;
+            bool ok = false;
+            try { ok = BuildInner(dev); }
+            finally
+            {
+                PlayerSettings.bundleVersion = trackedVersion;
+                AssetDatabase.SaveAssets();
+            }
+            if (!ok && Application.isBatchMode) EditorApplication.Exit(1);
+        }
+
+        static bool BuildInner(bool dev)
+        {
             Setup();
             string outDir = Environment.GetEnvironmentVariable("GH_BUILD_OUT");
             if (string.IsNullOrEmpty(outDir)) outDir = dev ? "Builds/WebGLDev" : "Builds/WebGL";
@@ -77,8 +92,7 @@ namespace GameHeartEditor
             var report = BuildPipeline.BuildPlayer(opts);
             Debug.Log($"[GameHeartBuilder] Build {report.summary.result} size={report.summary.totalSize / (1024 * 1024)}MB " +
                       $"errors={report.summary.totalErrors} time={report.summary.totalTime}");
-            if (report.summary.result != UnityEditor.Build.Reporting.BuildResult.Succeeded)
-                EditorApplication.Exit(1);
+            return report.summary.result == UnityEditor.Build.Reporting.BuildResult.Succeeded;
         }
 
         static void ImportTmpEssentials()
