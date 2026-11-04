@@ -1,0 +1,1518 @@
+{
+ "first_beat_s1101": {
+  "song": "first_beat",
+  "seed": 1101,
+  "duration": 100.0,
+  "tempo": 107.67,
+  "ibi_cv": 0.0227,
+  "rms_db": -16.8,
+  "silent_tail": 0.3,
+  "lyric_match": 0.94,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 4.0,
+    "text": "Loving down a tiny drum"
+   },
+   {
+    "t": 4.0,
+    "e": 8.0,
+    "text": "Deep inside the work's begun"
+   },
+   {
+    "t": 8.0,
+    "e": 13.0,
+    "text": "Every beat a little wave"
+   },
+   {
+    "t": 13.0,
+    "e": 18.0,
+    "text": "Sending life to every place"
+   },
+   {
+    "t": 18.0,
+    "e": 22.0,
+    "text": "Feel the first beat, feel it right"
+   },
+   {
+    "t": 22.0,
+    "e": 27.0,
+    "text": "Red light running, open eyes"
+   },
+   {
+    "t": 27.0,
+    "e": 30.3,
+    "text": "Tap it, tap it, keep the time"
+   },
+   {
+    "t": 30.3,
+    "e": 36.48,
+    "text": "Heart and rhythm, yours and mine"
+   },
+   {
+    "t": 36.48,
+    "e": 48.1,
+    "text": "Forums open, valves that close"
+   },
+   {
+    "t": 48.1,
+    "e": 52.48,
+    "text": "Through the dark, the river flows"
+   },
+   {
+    "t": 52.48,
+    "e": 56.92,
+    "text": "Oxygen to toes and hands"
+   },
+   {
+    "t": 56.92,
+    "e": 61.72,
+    "text": "Every cell now understands"
+   },
+   {
+    "t": 61.72,
+    "e": 65.78,
+    "text": "Feel the first beat, feel it rise"
+   },
+   {
+    "t": 65.78,
+    "e": 70.26,
+    "text": "Red light running, open eyes"
+   },
+   {
+    "t": 70.26,
+    "e": 74.5,
+    "text": "Tap it, tap it, keep the time"
+   },
+   {
+    "t": 74.5,
+    "e": 80.56,
+    "text": "Heart and rhythm, yours and mine"
+   },
+   {
+    "t": 86.92,
+    "e": 89.08,
+    "text": "you"
+   }
+  ]
+ },
+ "first_beat_s1102": {
+  "song": "first_beat",
+  "seed": 1102,
+  "duration": 111.6,
+  "tempo": 107.67,
+  "ibi_cv": 0.0333,
+  "rms_db": -16.8,
+  "silent_tail": 0.34,
+  "lyric_match": 0.932,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 4.16,
+    "text": "Love bend up, a tiny drum"
+   },
+   {
+    "t": 4.16,
+    "e": 8.58,
+    "text": "Deep inside, the work's begun"
+   },
+   {
+    "t": 8.58,
+    "e": 13.4,
+    "text": "Every beat, a little wave"
+   },
+   {
+    "t": 13.4,
+    "e": 18.58,
+    "text": "Sending life to every place"
+   },
+   {
+    "t": 18.58,
+    "e": 23.66,
+    "text": "Feel the first beat, feel it rise"
+   },
+   {
+    "t": 23.66,
+    "e": 28.44,
+    "text": "Red light running, open eyes"
+   },
+   {
+    "t": 28.44,
+    "e": 32.62,
+    "text": "Tap it, tap it, keep the time"
+   },
+   {
+    "t": 32.62,
+    "e": 37.52,
+    "text": "Heart and rhythm, yours and mine"
+   },
+   {
+    "t": 37.52,
+    "e": 46.44,
+    "text": "Yours and mine"
+   },
+   {
+    "t": 46.44,
+    "e": 58.24,
+    "text": "Four rooms open, valves that close"
+   },
+   {
+    "t": 58.24,
+    "e": 62.82,
+    "text": "Through the dark, the river flows"
+   },
+   {
+    "t": 62.82,
+    "e": 67.38,
+    "text": "Oxygen to toes and hands"
+   },
+   {
+    "t": 67.38,
+    "e": 72.4,
+    "text": "Every cell now understands"
+   },
+   {
+    "t": 72.4,
+    "e": 77.6,
+    "text": "Feel the first beat, feel it rise"
+   },
+   {
+    "t": 77.6,
+    "e": 82.26,
+    "text": "Red light running, open eyes"
+   },
+   {
+    "t": 82.26,
+    "e": 86.38,
+    "text": "Tap it, tap it, keep the time"
+   },
+   {
+    "t": 86.38,
+    "e": 91.28,
+    "text": "Heart and rhythm, yours and mine"
+   },
+   {
+    "t": 91.28,
+    "e": 99.96,
+    "text": "Yours and mine"
+   },
+   {
+    "t": 99.96,
+    "e": 101.12,
+    "text": "you"
+   }
+  ]
+ },
+ "frostbite_s2201": {
+  "song": "frostbite",
+  "seed": 2201,
+  "duration": 196.0,
+  "tempo": 123.05,
+  "ibi_cv": 0.0303,
+  "rms_db": -16.6,
+  "silent_tail": 0.52,
+  "lyric_match": 0.803,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 7.0,
+    "text": "So"
+   },
+   {
+    "t": 30.0,
+    "e": 37.0,
+    "text": "Snow is falling on the skin"
+   },
+   {
+    "t": 37.0,
+    "e": 45.0,
+    "text": "Cold is creeping, pulling in"
+   },
+   {
+    "t": 45.0,
+    "e": 52.0,
+    "text": "Vessels narrow, hold the heat"
+   },
+   {
+    "t": 52.0,
+    "e": 59.0,
+    "text": "Keep the water around the beat"
+   },
+   {
+    "t": 60.0,
+    "e": 65.46,
+    "text": "Faster, faster, frozen night"
+   },
+   {
+    "t": 65.46,
+    "e": 69.36,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 69.36,
+    "e": 73.08,
+    "text": "Every beat of sparkle flame"
+   },
+   {
+    "t": 73.08,
+    "e": 77.3,
+    "text": "Warm the body like a fray"
+   },
+   {
+    "t": 77.3,
+    "e": 85.72,
+    "text": "Shiver, shiver"
+   },
+   {
+    "t": 85.72,
+    "e": 89.26,
+    "text": "Muscles shake"
+   },
+   {
+    "t": 89.26,
+    "e": 97.02,
+    "text": "Burning fuel full, warm sunset"
+   },
+   {
+    "t": 97.02,
+    "e": 104.84,
+    "text": "Brushing blood to heart and core"
+   },
+   {
+    "t": 104.84,
+    "e": 112.56,
+    "text": "Racing on through winter storm"
+   },
+   {
+    "t": 112.56,
+    "e": 119.66,
+    "text": "Faster, faster, frozen light"
+   },
+   {
+    "t": 119.66,
+    "e": 123.56,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 123.56,
+    "e": 127.18,
+    "text": "Everything will spark a flame"
+   },
+   {
+    "t": 127.18,
+    "e": 131.78,
+    "text": "Warm the body like the frame"
+   },
+   {
+    "t": 142.56,
+    "e": 153.6,
+    "text": "I shall sigh but not within"
+   },
+   {
+    "t": 153.6,
+    "e": 161.14,
+    "text": "Feel the fire beneath the skin"
+   },
+   {
+    "t": 161.14,
+    "e": 166.02,
+    "text": "Faster, faster, frozen light"
+   },
+   {
+    "t": 166.02,
+    "e": 169.98,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 169.98,
+    "e": 173.64,
+    "text": "Every beat of spark of flame"
+   },
+   {
+    "t": 173.64,
+    "e": 178.22,
+    "text": "Warm the body, light the flame"
+   }
+  ]
+ },
+ "frostbite_s2202": {
+  "song": "frostbite",
+  "seed": 2202,
+  "duration": 202.8,
+  "tempo": 123.05,
+  "ibi_cv": 0.0273,
+  "rms_db": -16.3,
+  "silent_tail": 0.41,
+  "lyric_match": 0.576,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 29.98,
+    "text": "We'll be right back."
+   },
+   {
+    "t": 30.0,
+    "e": 35.8,
+    "text": "Snow is falling on the skin"
+   },
+   {
+    "t": 35.8,
+    "e": 44.0,
+    "text": "Cold as creeping, pulling pins"
+   },
+   {
+    "t": 44.0,
+    "e": 51.56,
+    "text": "Vessels narrow, hold the heat"
+   },
+   {
+    "t": 55.52,
+    "e": 59.64,
+    "text": "Keep the warmth around the beach"
+   },
+   {
+    "t": 59.64,
+    "e": 66.42,
+    "text": "Faster, faster, frozen night"
+   },
+   {
+    "t": 66.42,
+    "e": 70.36,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 70.36,
+    "e": 74.28,
+    "text": "Every beat, a sparkle flame"
+   },
+   {
+    "t": 74.28,
+    "e": 78.18,
+    "text": "Warm the body, light the frame"
+   },
+   {
+    "t": 89.64,
+    "e": 102.76,
+    "text": "Shiver shiver muscles shake"
+   },
+   {
+    "t": 102.76,
+    "e": 110.68,
+    "text": "Burning fuel for warm sun shake"
+   },
+   {
+    "t": 110.68,
+    "e": 118.32,
+    "text": "Brushing blood to heart and core"
+   },
+   {
+    "t": 119.64,
+    "e": 126.3,
+    "text": "Racing on through winter storm"
+   },
+   {
+    "t": 126.3,
+    "e": 133.38,
+    "text": "Faster, faster, frozen night"
+   },
+   {
+    "t": 133.38,
+    "e": 137.24,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 137.24,
+    "e": 141.18,
+    "text": "Every beat a spark of flame"
+   },
+   {
+    "t": 141.18,
+    "e": 145.22,
+    "text": "Warm the body, light the frame"
+   },
+   {
+    "t": 145.22,
+    "e": 153.74,
+    "text": "Eyes outside but not within"
+   },
+   {
+    "t": 153.74,
+    "e": 161.7,
+    "text": "Feel the fire beneath the skin"
+   },
+   {
+    "t": 175.22,
+    "e": 184.52,
+    "text": "Faster, faster, frozen night"
+   },
+   {
+    "t": 184.52,
+    "e": 188.48,
+    "text": "Pump the fire, hold it tight"
+   },
+   {
+    "t": 188.48,
+    "e": 192.3,
+    "text": "Every beat has sparked the flame"
+   },
+   {
+    "t": 192.3,
+    "e": 196.3,
+    "text": "Warm the body, light the flame"
+   }
+  ]
+ },
+ "sprint_s3301": {
+  "song": "sprint",
+  "seed": 3301,
+  "duration": 172.0,
+  "tempo": 152.0,
+  "ibi_cv": 0.0324,
+  "rms_db": -16.4,
+  "silent_tail": 0.26,
+  "lyric_match": 0.877,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 23.72,
+    "text": "Feet are pounding on the track"
+   },
+   {
+    "t": 23.72,
+    "e": 31.7,
+    "text": "Lungs are pulling oxygen back"
+   },
+   {
+    "t": 31.7,
+    "e": 36.48,
+    "text": "Muscles calling, need it now"
+   },
+   {
+    "t": 36.48,
+    "e": 43.58,
+    "text": "Hearts, the engines, show them how"
+   },
+   {
+    "t": 43.58,
+    "e": 48.48,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 48.48,
+    "e": 51.56,
+    "text": "Blood is racing, feelings fly"
+   },
+   {
+    "t": 51.56,
+    "e": 54.8,
+    "text": "Every beat of power line"
+   },
+   {
+    "t": 54.8,
+    "e": 56.44,
+    "text": "Push faster"
+   },
+   {
+    "t": 56.44,
+    "e": 58.8,
+    "text": "Keep in time"
+   },
+   {
+    "t": 58.8,
+    "e": 65.22,
+    "text": "Keep in time"
+   },
+   {
+    "t": 65.22,
+    "e": 75.02,
+    "text": "Breathe in deeper, breathe in fast"
+   },
+   {
+    "t": 78.02,
+    "e": 81.42,
+    "text": "Every second built to last"
+   },
+   {
+    "t": 81.42,
+    "e": 87.82,
+    "text": "Red cells carry what we need"
+   },
+   {
+    "t": 87.82,
+    "e": 94.26,
+    "text": "Feed the fire, feed the speed"
+   },
+   {
+    "t": 94.26,
+    "e": 99.6,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 99.6,
+    "e": 102.78,
+    "text": "Blood is racing, feel it fly"
+   },
+   {
+    "t": 102.78,
+    "e": 106.02,
+    "text": "Every beat of power line"
+   },
+   {
+    "t": 106.02,
+    "e": 110.0,
+    "text": "Push it faster, keep in time"
+   },
+   {
+    "t": 110.0,
+    "e": 116.42,
+    "text": "Keep in time"
+   },
+   {
+    "t": 116.42,
+    "e": 128.14,
+    "text": "Faster than the finish line"
+   },
+   {
+    "t": 128.14,
+    "e": 135.2,
+    "text": "Hearts are made to climb and climb"
+   },
+   {
+    "t": 135.2,
+    "e": 144.4,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 144.4,
+    "e": 147.58,
+    "text": "Blood is racing, feel it fly"
+   },
+   {
+    "t": 147.58,
+    "e": 150.82,
+    "text": "Every beat of power line"
+   },
+   {
+    "t": 150.82,
+    "e": 152.44,
+    "text": "Push it faster"
+   },
+   {
+    "t": 152.44,
+    "e": 154.8,
+    "text": "Keep it in time"
+   },
+   {
+    "t": 154.8,
+    "e": 161.2,
+    "text": "Keep it in time"
+   },
+   {
+    "t": 161.2,
+    "e": 163.6,
+    "text": "you"
+   }
+  ]
+ },
+ "sprint_s3302": {
+  "song": "sprint",
+  "seed": 3302,
+  "duration": 171.1,
+  "tempo": 78.3,
+  "ibi_cv": 0.026,
+  "rms_db": -16.5,
+  "silent_tail": 0.3,
+  "lyric_match": 0.884,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 21.44,
+    "text": "Feet are pounding on the track"
+   },
+   {
+    "t": 21.44,
+    "e": 28.12,
+    "text": "Lungs are pulling oxygen back"
+   },
+   {
+    "t": 30.0,
+    "e": 33.8,
+    "text": "Muscles call and meet it now"
+   },
+   {
+    "t": 33.8,
+    "e": 41.52,
+    "text": "Hearts the end to show them how"
+   },
+   {
+    "t": 41.52,
+    "e": 45.76,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 45.76,
+    "e": 48.8,
+    "text": "Blood is racing, feel it fly"
+   },
+   {
+    "t": 48.8,
+    "e": 51.9,
+    "text": "Every beat, power line"
+   },
+   {
+    "t": 51.9,
+    "e": 56.16,
+    "text": "Push it faster, keep in time"
+   },
+   {
+    "t": 60.0,
+    "e": 62.36,
+    "text": "Keeping time"
+   },
+   {
+    "t": 62.36,
+    "e": 70.78,
+    "text": "Breathing deeper, breathing fast"
+   },
+   {
+    "t": 70.78,
+    "e": 77.92,
+    "text": "Every second built to last"
+   },
+   {
+    "t": 77.92,
+    "e": 83.02,
+    "text": "Red cells carry what we need"
+   },
+   {
+    "t": 85.52,
+    "e": 89.6,
+    "text": "Feed the fire, feed the speed"
+   },
+   {
+    "t": 89.6,
+    "e": 94.98,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 94.98,
+    "e": 98.02,
+    "text": "Blood is racing, feel it fly"
+   },
+   {
+    "t": 98.02,
+    "e": 101.14,
+    "text": "Every beat of power line"
+   },
+   {
+    "t": 101.14,
+    "e": 102.94,
+    "text": "Push it faster"
+   },
+   {
+    "t": 102.94,
+    "e": 105.4,
+    "text": "Keep in time"
+   },
+   {
+    "t": 105.4,
+    "e": 111.56,
+    "text": "Keep in time"
+   },
+   {
+    "t": 119.6,
+    "e": 134.86,
+    "text": "Faster than the finish line"
+   },
+   {
+    "t": 134.86,
+    "e": 141.48,
+    "text": "Hearts are made to climb and climb"
+   },
+   {
+    "t": 141.48,
+    "e": 147.36,
+    "text": "Run, run, run, the rhythm's high"
+   },
+   {
+    "t": 147.36,
+    "e": 150.34,
+    "text": "Burn his race and feel it fly"
+   },
+   {
+    "t": 150.34,
+    "e": 153.44,
+    "text": "Every beat of power line"
+   },
+   {
+    "t": 153.44,
+    "e": 154.98,
+    "text": "Push it faster"
+   },
+   {
+    "t": 154.98,
+    "e": 157.7,
+    "text": "Keep in time"
+   },
+   {
+    "t": 157.7,
+    "e": 163.86,
+    "text": "Keep in time"
+   }
+  ]
+ },
+ "fever_s4401": {
+  "song": "fever",
+  "seed": 4401,
+  "duration": 197.1,
+  "tempo": 143.55,
+  "ibi_cv": 0.0291,
+  "rms_db": -15.1,
+  "silent_tail": 0.17,
+  "lyric_match": 0.937,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 29.98,
+    "text": "A Long Dory"
+   },
+   {
+    "t": 29.98,
+    "e": 33.38,
+    "text": "Something's wrong"
+   },
+   {
+    "t": 33.38,
+    "e": 40.32,
+    "text": "Tiny germs are getting strong"
+   },
+   {
+    "t": 40.32,
+    "e": 46.98,
+    "text": "Fever rising, body's hot"
+   },
+   {
+    "t": 46.98,
+    "e": 52.98,
+    "text": "Time to give it all we've got"
+   },
+   {
+    "t": 52.98,
+    "e": 58.28,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 58.28,
+    "e": 61.78,
+    "text": "White cells marching right on time"
+   },
+   {
+    "t": 61.78,
+    "e": 64.82,
+    "text": "Beat it fast, ascend them through"
+   },
+   {
+    "t": 64.82,
+    "e": 69.5,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 69.5,
+    "e": 87.96,
+    "text": "Through the vessels, soldiers array"
+   },
+   {
+    "t": 87.96,
+    "e": 95.26,
+    "text": "Find the germs and take their place"
+   },
+   {
+    "t": 95.26,
+    "e": 101.68,
+    "text": "Heart is pounding, strong and true"
+   },
+   {
+    "t": 101.68,
+    "e": 107.54,
+    "text": "Carrying the fighters through"
+   },
+   {
+    "t": 107.54,
+    "e": 113.14,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 113.14,
+    "e": 116.62,
+    "text": "White cells marching right on time"
+   },
+   {
+    "t": 116.62,
+    "e": 119.72,
+    "text": "Beat it faster, send them through"
+   },
+   {
+    "t": 119.72,
+    "e": 124.42,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 124.42,
+    "e": 143.74,
+    "text": "When the fever starts to break"
+   },
+   {
+    "t": 143.74,
+    "e": 157.74,
+    "text": "Every cell will be your way"
+   },
+   {
+    "t": 157.74,
+    "e": 171.42,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 171.42,
+    "e": 174.92,
+    "text": "White cells marching right on time"
+   },
+   {
+    "t": 174.92,
+    "e": 177.98,
+    "text": "Beat it faster, send them through"
+   },
+   {
+    "t": 177.98,
+    "e": 182.26,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 187.74,
+    "e": 188.74,
+    "text": "Bye."
+   }
+  ]
+ },
+ "fever_s4402": {
+  "song": "fever",
+  "seed": 4402,
+  "duration": 195.6,
+  "tempo": 143.55,
+  "ibi_cv": 0.0297,
+  "rms_db": -18.3,
+  "silent_tail": 0.14,
+  "lyric_match": 0.933,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 14.0,
+    "text": "Ooh, ooh, ooh"
+   },
+   {
+    "t": 30.0,
+    "e": 44.74,
+    "text": "Arms are ringing, something's wrong"
+   },
+   {
+    "t": 44.74,
+    "e": 51.6,
+    "text": "Tiny germs are getting strong"
+   },
+   {
+    "t": 51.6,
+    "e": 58.44,
+    "text": "Fever rising, body's high"
+   },
+   {
+    "t": 60.0,
+    "e": 65.46,
+    "text": "Time to give it all we've got"
+   },
+   {
+    "t": 65.46,
+    "e": 72.04,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 72.04,
+    "e": 75.48,
+    "text": "White tails marching right on time"
+   },
+   {
+    "t": 75.48,
+    "e": 78.76,
+    "text": "Beat it faster, send them through"
+   },
+   {
+    "t": 78.76,
+    "e": 83.52,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 83.52,
+    "e": 99.4,
+    "text": "Through the vessels soldiers raid"
+   },
+   {
+    "t": 99.4,
+    "e": 106.22,
+    "text": "Find the germs and take their place"
+   },
+   {
+    "t": 106.22,
+    "e": 113.32,
+    "text": "Heart is pounding strong and true"
+   },
+   {
+    "t": 113.32,
+    "e": 120.0,
+    "text": "Carrying the fighters through"
+   },
+   {
+    "t": 120.0,
+    "e": 126.86,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 126.86,
+    "e": 130.32,
+    "text": "White sails marching right on time"
+   },
+   {
+    "t": 130.32,
+    "e": 133.6,
+    "text": "Beat it faster, send them through"
+   },
+   {
+    "t": 133.6,
+    "e": 138.18,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 138.18,
+    "e": 156.8,
+    "text": "When the fever starts to break"
+   },
+   {
+    "t": 156.8,
+    "e": 163.2,
+    "text": "Every cell will be awake"
+   },
+   {
+    "t": 163.6,
+    "e": 169.72,
+    "text": "Hold the front, defend the line"
+   },
+   {
+    "t": 169.72,
+    "e": 173.16,
+    "text": "White sails marching right on time"
+   },
+   {
+    "t": 173.16,
+    "e": 176.5,
+    "text": "Be it faster, send them through"
+   },
+   {
+    "t": 176.5,
+    "e": 181.02,
+    "text": "Every pulse will see us through"
+   },
+   {
+    "t": 193.6,
+    "e": 195.66,
+    "text": "you"
+   }
+  ]
+ },
+ "night_tide_s5501": {
+  "song": "night_tide",
+  "seed": 5501,
+  "duration": 150.0,
+  "tempo": 71.78,
+  "ibi_cv": 0.0467,
+  "rms_db": -18.1,
+  "silent_tail": 0.09,
+  "lyric_match": 0.984,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 18.0,
+    "text": "Lights are low, the stars are near"
+   },
+   {
+    "t": 18.0,
+    "e": 24.88,
+    "text": "Close your eyes, the night is here"
+   },
+   {
+    "t": 24.88,
+    "e": 31.66,
+    "text": "Slow the beat and let it go"
+   },
+   {
+    "t": 31.66,
+    "e": 38.2,
+    "text": "Like the tide, so soft, so slow"
+   },
+   {
+    "t": 38.2,
+    "e": 44.08,
+    "text": "Rest now, rest now, gentle heart"
+   },
+   {
+    "t": 44.08,
+    "e": 47.34,
+    "text": "Mend the pieces, every part"
+   },
+   {
+    "t": 47.34,
+    "e": 52.06,
+    "text": "Slower, slower, drifting deep"
+   },
+   {
+    "t": 52.06,
+    "e": 59.06,
+    "text": "Healing comes while we're asleep"
+   },
+   {
+    "t": 59.06,
+    "e": 79.06,
+    "text": "Muscles soften, breathing calm"
+   },
+   {
+    "t": 79.06,
+    "e": 94.06,
+    "text": "Moonlight resting in your palm Every beat a lullaby"
+   },
+   {
+    "t": 94.06,
+    "e": 105.06,
+    "text": "Under quiet silver sky Rest now, rest now, gentle heart"
+   },
+   {
+    "t": 105.06,
+    "e": 108.28,
+    "text": "Mend the pieces every part"
+   },
+   {
+    "t": 108.28,
+    "e": 114.24,
+    "text": "Slower slower drifting deep"
+   },
+   {
+    "t": 114.24,
+    "e": 122.0,
+    "text": "Healing comes while we're restless"
+   },
+   {
+    "t": 122.0,
+    "e": 128.68,
+    "text": "Hush now gentle heart"
+   },
+   {
+    "t": 128.68,
+    "e": 135.04,
+    "text": "Hush now gentle heart"
+   },
+   {
+    "t": 135.04,
+    "e": 137.04,
+    "text": "and"
+   }
+  ]
+ },
+ "night_tide_s5502": {
+  "song": "night_tide",
+  "seed": 5502,
+  "duration": 148.3,
+  "tempo": 73.83,
+  "ibi_cv": 0.0813,
+  "rms_db": -19.5,
+  "silent_tail": 0.62,
+  "lyric_match": 0.957,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 18.28,
+    "text": "Lights are low, the stars are near"
+   },
+   {
+    "t": 18.28,
+    "e": 24.9,
+    "text": "Close your eyes, the night is here"
+   },
+   {
+    "t": 24.9,
+    "e": 31.66,
+    "text": "Slow the beat and let it go"
+   },
+   {
+    "t": 31.66,
+    "e": 38.14,
+    "text": "Like the tide, so soft, so slow"
+   },
+   {
+    "t": 38.14,
+    "e": 45.14,
+    "text": "Press now, rest now, gentle heart"
+   },
+   {
+    "t": 45.14,
+    "e": 51.36,
+    "text": "Mend the pieces, every part"
+   },
+   {
+    "t": 51.36,
+    "e": 58.08,
+    "text": "Slower, slower, drifting deep"
+   },
+   {
+    "t": 58.08,
+    "e": 63.44,
+    "text": "Healing comes while we're asleep"
+   },
+   {
+    "t": 63.44,
+    "e": 84.24,
+    "text": "My soul soft and breathing calm"
+   },
+   {
+    "t": 84.24,
+    "e": 90.72,
+    "text": "Moonlight resting in your palm"
+   },
+   {
+    "t": 90.72,
+    "e": 104.08,
+    "text": "Every beat a lullaby Under quiet silver sky"
+   },
+   {
+    "t": 104.08,
+    "e": 117.2,
+    "text": "Rest now, rest now, gentle heart Mend the pieces, every part"
+   },
+   {
+    "t": 117.2,
+    "e": 123.84,
+    "text": "Slower, slower, drifting deep"
+   },
+   {
+    "t": 123.84,
+    "e": 129.2,
+    "text": "Healing comes while we're asleep"
+   },
+   {
+    "t": 129.2,
+    "e": 137.44,
+    "text": "Hush now, gentle heart"
+   },
+   {
+    "t": 137.44,
+    "e": 143.4,
+    "text": "Hush now, gentle heart"
+   },
+   {
+    "t": 147.2,
+    "e": 177.18,
+    "text": "Thank you."
+   }
+  ]
+ },
+ "symphony_s6601": {
+  "song": "symphony",
+  "seed": 6601,
+  "duration": 202.5,
+  "tempo": 129.2,
+  "ibi_cv": 0.0247,
+  "rms_db": -16.7,
+  "silent_tail": 0.43,
+  "lyric_match": 0.789,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 20.96,
+    "text": "From the first beat to the last"
+   },
+   {
+    "t": 23.96,
+    "e": 28.84,
+    "text": "Through the cold and through the fast"
+   },
+   {
+    "t": 28.84,
+    "e": 36.12,
+    "text": "Through the fever, through the night"
+   },
+   {
+    "t": 36.12,
+    "e": 43.64,
+    "text": "You kept every rhythm right"
+   },
+   {
+    "t": 43.64,
+    "e": 50.92,
+    "text": "This is the symphony of the heart"
+   },
+   {
+    "t": 54.44,
+    "e": 58.56,
+    "text": "Beating on a word of art"
+   },
+   {
+    "t": 58.56,
+    "e": 66.3,
+    "text": "Faster, slower, strong and true"
+   },
+   {
+    "t": 66.3,
+    "e": 75.32,
+    "text": "Every beat belongs to you"
+   },
+   {
+    "t": 75.32,
+    "e": 80.9,
+    "text": "A hundred thousand beats a day"
+   },
+   {
+    "t": 80.9,
+    "e": 88.68,
+    "text": "Never stopping on the way"
+   },
+   {
+    "t": 88.68,
+    "e": 96.18,
+    "text": "Humping life to every part"
+   },
+   {
+    "t": 96.18,
+    "e": 103.9,
+    "text": "Here's to you, the beating heart"
+   },
+   {
+    "t": 105.9,
+    "e": 110.82,
+    "text": "This is the symphony of my own"
+   },
+   {
+    "t": 110.82,
+    "e": 118.52,
+    "text": "Be your own worth of art"
+   },
+   {
+    "t": 118.52,
+    "e": 126.04,
+    "text": "Faster so it's strong and true"
+   },
+   {
+    "t": 126.04,
+    "e": 135.1,
+    "text": "Everything belongs to you"
+   },
+   {
+    "t": 135.1,
+    "e": 142.56,
+    "text": "Loved up, loved life, here in the sea"
+   },
+   {
+    "t": 142.56,
+    "e": 149.66,
+    "text": "Life is in the feet we breathe"
+   },
+   {
+    "t": 149.66,
+    "e": 155.82,
+    "text": "This is the symphony of the art"
+   },
+   {
+    "t": 155.82,
+    "e": 163.32,
+    "text": "Feed on our work for art"
+   },
+   {
+    "t": 165.1,
+    "e": 171.2,
+    "text": "Faster, so strong and true"
+   },
+   {
+    "t": 171.2,
+    "e": 179.0,
+    "text": "Everything belongs to you"
+   },
+   {
+    "t": 195.1,
+    "e": 195.74,
+    "text": "you"
+   }
+  ]
+ },
+ "symphony_s6602": {
+  "song": "symphony",
+  "seed": 6602,
+  "duration": 147.8,
+  "tempo": 129.2,
+  "ibi_cv": 0.0297,
+  "rms_db": -17.5,
+  "silent_tail": 0.67,
+  "lyric_match": 0.832,
+  "segments": [
+   {
+    "t": 0.0,
+    "e": 18.0,
+    "text": "From the first beat to the last"
+   },
+   {
+    "t": 18.0,
+    "e": 21.66,
+    "text": "Through the cold and through the fast"
+   },
+   {
+    "t": 21.66,
+    "e": 24.98,
+    "text": "Through the fever, through the night"
+   },
+   {
+    "t": 24.98,
+    "e": 29.98,
+    "text": "You kept every rhythm right"
+   },
+   {
+    "t": 29.98,
+    "e": 36.1,
+    "text": "This is the symphony of the heart"
+   },
+   {
+    "t": 36.1,
+    "e": 39.82,
+    "text": "Feeding on the work of art"
+   },
+   {
+    "t": 39.82,
+    "e": 43.26,
+    "text": "Fast as slow as strong as true"
+   },
+   {
+    "t": 43.26,
+    "e": 50.4,
+    "text": "Every beat belongs to you"
+   },
+   {
+    "t": 50.4,
+    "e": 57.4,
+    "text": "Ooh, ooh, ooh, ooh"
+   },
+   {
+    "t": 57.4,
+    "e": 61.4,
+    "text": "Ooh, ooh, ooh, ooh"
+   },
+   {
+    "t": 61.4,
+    "e": 65.4,
+    "text": "A hundred thousand beats a day"
+   },
+   {
+    "t": 65.4,
+    "e": 69.4,
+    "text": "Never stopping on the way"
+   },
+   {
+    "t": 69.4,
+    "e": 73.4,
+    "text": "Pumping life to every part"
+   },
+   {
+    "t": 73.4,
+    "e": 78.6,
+    "text": "Here's to you the beating heart"
+   },
+   {
+    "t": 78.6,
+    "e": 84.1,
+    "text": "This is the symphony of the heart"
+   },
+   {
+    "t": 84.1,
+    "e": 87.8,
+    "text": "Beating on a work of art"
+   },
+   {
+    "t": 87.8,
+    "e": 91.24,
+    "text": "Fastest, lowest, strong and true"
+   },
+   {
+    "t": 91.24,
+    "e": 96.94,
+    "text": "Every beat belongs to you"
+   },
+   {
+    "t": 96.94,
+    "e": 100.14,
+    "text": "Lock, lock, lock, lock, hear it sing"
+   },
+   {
+    "t": 100.14,
+    "e": 103.86,
+    "text": "Life is in the beat we bring"
+   },
+   {
+    "t": 103.86,
+    "e": 107.58,
+    "text": "Love, love, love, love, hear it sing"
+   },
+   {
+    "t": 107.58,
+    "e": 125.14,
+    "text": "Ooh, ooh, ooh"
+   },
+   {
+    "t": 125.14,
+    "e": 128.34,
+    "text": "This is the symphony of the heart"
+   },
+   {
+    "t": 128.34,
+    "e": 132.04,
+    "text": "Beating on a word of art"
+   },
+   {
+    "t": 132.04,
+    "e": 135.72,
+    "text": "Faster, slower, strong and true"
+   },
+   {
+    "t": 135.72,
+    "e": 142.08,
+    "text": "Everything belongs to you"
+   }
+  ]
+ },
+ "title_theme_s7701": {
+  "song": "title_theme",
+  "seed": 7701,
+  "duration": 143.8,
+  "tempo": 95.7,
+  "ibi_cv": 0.0189,
+  "rms_db": -18.5,
+  "silent_tail": 0.94
+ },
+ "title_theme_s7702": {
+  "song": "title_theme",
+  "seed": 7702,
+  "duration": 109.9,
+  "tempo": 95.7,
+  "ibi_cv": 0.016,
+  "rms_db": -17.1,
+  "silent_tail": 0.47
+ },
+ "control_center_s8801": {
+  "song": "control_center",
+  "seed": 8801,
+  "duration": 153.0,
+  "tempo": 117.45,
+  "ibi_cv": 0.0595,
+  "rms_db": -19.0,
+  "silent_tail": 0.32
+ }
+}

@@ -1,0 +1,332 @@
+[
+ {
+  "id": "v_50e6a512b4",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Let's start with a warm-up! Electrical signals will race down these lanes toward the beat line."
+ },
+ {
+  "id": "v_1df3fefce4",
+  "speaker": "B",
+  "mood": "neutral",
+  "text": "Tap each signal right as it reaches the line. Hold the long ones to keep the blood flowing."
+ },
+ {
+  "id": "v_ef4ec21b32",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "When a wide pulse arrives, that's a full heartbeat. Hit it with everything you've got!"
+ },
+ {
+  "id": "v_7d7804ce61",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Great job! You've got the hang of it. Now let's put your skills to the test out in the body."
+ },
+ {
+  "id": "v_b0571f184f",
+  "speaker": "B",
+  "mood": "neutral",
+  "text": "Not bad for a first try! Watch the beat line and keep your taps steady."
+ },
+ {
+  "id": "v_cd273afe9a",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Uh-oh! With a slower beat, warm blood can't reach the core fast enough. The body's getting colder!"
+ },
+ {
+  "id": "v_3ffeb699fe",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Hmm, the same pace isn't enough. Shivering muscles are burning fuel and need more blood."
+ },
+ {
+  "id": "v_74f65fc983",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "That's it! The heart needs to beat faster when it's cold to keep the body warm. Let's go!"
+ },
+ {
+  "id": "v_284fb0c152",
+  "speaker": "B",
+  "mood": "cold",
+  "text": "Brrr! The body just stepped out into a snowstorm."
+ },
+ {
+  "id": "v_bd4ae7875d",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "Look, the blood vessels near the skin are narrowing to keep the warmth inside."
+ },
+ {
+  "id": "v_67863117a1",
+  "speaker": "B",
+  "mood": "cold",
+  "text": "The muscles are shivering to make heat, and they need extra fuel to do it."
+ },
+ {
+  "id": "v_fb9f8eed66",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Fantastic! Warm blood is flowing to the core. The body's holding on to its heat."
+ },
+ {
+  "id": "v_2da0f10ae3",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "We kept the body going, but the rhythm slipped. A steadier beat would keep it warmer."
+ },
+ {
+  "id": "v_aefa57b5c2",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Oh no, the legs feel heavy! Without enough oxygen, the muscles tire out fast."
+ },
+ {
+  "id": "v_80e45c8e12",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Looks like not enough oxygen is getting to the limbs. Better speed it up!"
+ },
+ {
+  "id": "v_4ca5108616",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Exactly! A faster heartbeat delivers more oxygen to the muscles. Let's race!"
+ },
+ {
+  "id": "v_9579524f87",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Time to get moving! The body's running a race."
+ },
+ {
+  "id": "v_43d834ceb5",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "Working muscles need lots of oxygen, and the lungs are breathing faster to bring it in."
+ },
+ {
+  "id": "v_a7201b2aeb",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "That fast heart rate is exactly what we needed to send enough oxygen around. What a finish!"
+ },
+ {
+  "id": "v_3b870f301e",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "We crossed the line, but the muscles ran low on oxygen. A stronger rhythm will power them up."
+ },
+ {
+  "id": "v_d4da484564",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "The white blood cells can't reach the germs in time! The infection is spreading."
+ },
+ {
+  "id": "v_9797d178f0",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "The defenders are moving too slowly. The heart must work harder to fight off illness."
+ },
+ {
+  "id": "v_a01bbccce5",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Great! A faster heart rate carries the defenders where they are needed. Charge!"
+ },
+ {
+  "id": "v_f18d32bc04",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Uh-oh, the body is sick. Germs have slipped past the defenses."
+ },
+ {
+  "id": "v_e41e6adad4",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "The body's turning up the heat with a fever, and the white blood cells are getting ready to fight."
+ },
+ {
+  "id": "v_e48544e70f",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "We did it! The fever's breaking and the germs are on the run."
+ },
+ {
+  "id": "v_83d7bb1fb5",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "The body's still fighting. A stronger rhythm would get the defenders there faster."
+ },
+ {
+  "id": "v_e069c9e00c",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Too fast! Heartbeats should be slower to let the body sleep."
+ },
+ {
+  "id": "v_82abb10470",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "Hmm, the body doesn't need daytime power right now. It's time to slow down."
+ },
+ {
+  "id": "v_7b2fceb5c5",
+  "speaker": "B",
+  "mood": "sleepy",
+  "text": "Perfect. During sleep, the heart rate slows down to help the body recover and rest."
+ },
+ {
+  "id": "v_0d7dcfcc97",
+  "speaker": "B",
+  "mood": "sleepy",
+  "text": "Shh... it's bedtime. The body's had a long, busy day."
+ },
+ {
+  "id": "v_878efcab2d",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "While we sleep, the body repairs muscles and stores energy for tomorrow."
+ },
+ {
+  "id": "v_eb66353032",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Good morning! The body woke up fully recharged."
+ },
+ {
+  "id": "v_2ac5e2d7f0",
+  "speaker": "B",
+  "mood": "sleepy",
+  "text": "A few bumps in the night... a calmer rhythm will help the body rest."
+ },
+ {
+  "id": "v_c0e32dd880",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Explorer, look how far we've come. Cold, exercise, fever, and sleep."
+ },
+ {
+  "id": "v_aa79926602",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "Every situation needed a different rhythm, and you found the right one each time."
+ },
+ {
+  "id": "v_59708f0df0",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Now let's play the heart's whole story, from the very first beat!"
+ },
+ {
+  "id": "v_fc1086cc9f",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Fantastic work! You've mastered the art of controlling the heart's rhythm."
+ },
+ {
+  "id": "v_0b77ea410b",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Remember, your heart is always working, adjusting to keep you healthy and strong."
+ },
+ {
+  "id": "v_a7fa7177b0",
+  "speaker": "B",
+  "mood": "neutral",
+  "text": "Every beat pushes life-giving blood, oxygen, and nutrients to where they're needed."
+ },
+ {
+  "id": "v_510806eccf",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Now let's head for our next station and continue exploring!"
+ },
+ {
+  "id": "v_affe165000",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "What a performance! The heart kept going all the way through."
+ },
+ {
+  "id": "v_887548caa4",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Full combo! Perfect rhythm!"
+ },
+ {
+  "id": "v_a674d40ee7",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Rhythm restored!"
+ },
+ {
+  "id": "v_ca8d0385f8",
+  "speaker": "B",
+  "mood": "worried",
+  "text": "Hang in there, we'll get it next time."
+ },
+ {
+  "id": "v_41507d6142",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "What does the body need? Choose the heart's rhythm."
+ },
+ {
+  "id": "v_cda33beab2",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Pulse check! Let us see what you learned."
+ },
+ {
+  "id": "v_98a04ae3e9",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Correct!"
+ },
+ {
+  "id": "v_f21c99348c",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "Not quite. Here is why."
+ },
+ {
+  "id": "v_2268ea837a",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "Explorer! Welcome aboard. We've shrunk down smaller than a single blood cell."
+ },
+ {
+  "id": "v_3d08ead963",
+  "speaker": "B",
+  "mood": "neutral",
+  "text": "Follow those red blood cells. They'll carry us straight to the most important station in the body."
+ },
+ {
+  "id": "v_2086b17905",
+  "speaker": "B",
+  "mood": "excited",
+  "text": "Whoa... getting a close-up view of the heart is truly awe-inspiring!"
+ },
+ {
+  "id": "v_e22ede7d6d",
+  "speaker": "B",
+  "mood": "neutral",
+  "text": "The heart is a powerful pump, working day and night to move blood through your whole body."
+ },
+ {
+  "id": "v_d790aafe91",
+  "speaker": "B",
+  "mood": "thinking",
+  "text": "This is the heartbeat control center. A tiny spark called the S A node sets the pace of every beat."
+ },
+ {
+  "id": "v_4b968b0761",
+  "speaker": "B",
+  "mood": "happy",
+  "text": "The heart changes its rhythm depending on what the body needs. Are you ready to take control?"
+ }
+]

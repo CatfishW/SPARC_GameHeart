@@ -1,0 +1,30 @@
+{
+  "provider": "Qwen3-TTS-12Hz-1.7B-CustomVoice",
+  "records": [
+    {
+      "provider": "Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "model_snapshot": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "id": "v_b0571f184f",
+      "text": "Not bad for a first try! Watch the beat line and keep your taps steady.",
+      "mood": "neutral",
+      "speaker": "Ryan",
+      "language": "English",
+      "instruct": "Speak in natural American English as a friendly, confident male game guide. Use clear conversational phrasing and a comfortable, lively pace. Keep the same voice throughout. Speak only the supplied words. Explain clearly and naturally, like helping a friend. Clearly articulate the final s in the plural word taps, with a very short pause before steady.",
+      "seed": 1402847037,
+      "temperature": 0.65,
+      "top_p": 0.9,
+      "repetition_penalty": 1.05,
+      "max_new_tokens": 512,
+      "non_streaming_mode": true,
+      "renderer_version": 1,
+      "request_sha256": "adf59bd81491205a5e5585f3c26f5458f4ec523a9782e975f0f5d91058aa436b",
+      "audio_sha256": "64bfebc896cb2f9f2a6fd8ba806ff28bc517c2e83179d8ae9726f9f84977c48c",
+      "sample_rate": 24000,
+      "duration": 4.24,
+      "peak": 0.4609375,
+      "rms": 0.06345265841522059,
+      "elapsed": 4.35
+    }
+  ],
+  "failures": []
+}

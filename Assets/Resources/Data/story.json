@@ -1,0 +1,995 @@
+{
+ "prologue": {
+  "id": "prologue",
+  "shots": [
+   {
+    "art": "prologue_ship",
+    "move": "push",
+    "fx": "cells",
+    "tint": "#FFFFFF",
+    "lines": [
+     {
+      "speaker": "N",
+      "mood": "",
+      "text": "Somewhere inside a human body…",
+      "voice": ""
+     },
+     {
+      "speaker": "B",
+      "mood": "happy",
+      "text": "Explorer! Welcome aboard. We've shrunk down smaller than a single blood cell.",
+      "voice": "v_2268ea837a"
+     },
+     {
+      "speaker": "B",
+      "mood": "neutral",
+      "text": "Follow those red blood cells. They'll carry us straight to the most important station in the body.",
+      "voice": "v_3d08ead963"
+     }
+    ]
+   },
+   {
+    "art": "heart_reveal",
+    "move": "rise",
+    "fx": "cells",
+    "tint": "#FFFFFF",
+    "lines": [
+     {
+      "speaker": "B",
+      "mood": "excited",
+      "text": "Whoa… getting a close-up view of the heart is truly awe-inspiring!",
+      "voice": "v_2086b17905"
+     },
+     {
+      "speaker": "B",
+      "mood": "neutral",
+      "text": "The heart is a powerful pump, working day and night to move blood through your whole body.",
+      "voice": "v_e22ede7d6d"
+     }
+    ]
+   },
+   {
+    "art": "control_center",
+    "move": "pull",
+    "fx": "sparks",
+    "tint": "#FFFFFF",
+    "lines": [
+     {
+      "speaker": "B",
+      "mood": "thinking",
+      "text": "This is the heartbeat control center. A tiny spark called the SA node sets the pace of every beat.",
+      "voice": "v_d790aafe91"
+     },
+     {
+      "speaker": "B",
+      "mood": "happy",
+      "text": "The heart changes its rhythm depending on what the body needs. Are you ready to take control?",
+      "voice": "v_4b968b0761"
+     }
+    ]
+   }
+  ]
+ },
+ "chapters": [
+  {
+   "id": "tutorial",
+   "index": 1,
+   "title": "First Beat",
+   "subtitle": "Warm-Up at the Control Center",
+   "song": "first_beat",
+   "songTitle": "First Beat",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 108,
+   "color": "#FF5A6E",
+   "accent": "#FFD1D8",
+   "stage": "stage_tutorial",
+   "theme": "warm",
+   "intro": [
+    {
+     "art": "control_center",
+     "move": "drift",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Let's start with a warm-up! Electrical signals will race down these lanes toward the beat line.",
+       "voice": "v_50e6a512b4"
+      },
+      {
+       "speaker": "B",
+       "mood": "neutral",
+       "text": "Tap each signal right as it reaches the line. Hold the long ones to keep the blood flowing.",
+       "voice": "v_1df3fefce4"
+      },
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "When a wide pulse arrives, that's a full heartbeat. Hit it with everything you've got!",
+       "voice": "v_ef4ec21b32"
+      }
+     ]
+    }
+   ],
+   "decision": null,
+   "win": [
+    {
+     "art": "control_center",
+     "move": "push",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Great job! You've got the hang of it. Now let's put your skills to the test out in the body.",
+       "voice": "v_7d7804ce61"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "control_center",
+     "move": "push",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "neutral",
+       "text": "Not bad for a first try! Watch the beat line and keep your taps steady.",
+       "voice": "v_b0571f184f"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The heart's main job in the body is to…",
+     "options": [
+      "Pump blood throughout the body",
+      "Filter toxins from the bloodstream",
+      "Digest and absorb nutrients",
+      "Control signals from the brain"
+     ],
+     "answer": 0,
+     "explain": "The heart is a muscular pump. Every beat pushes blood through the whole body."
+    },
+    {
+     "q": "The heart is one of the key organs in the ___ system.",
+     "options": [
+      "Circulatory",
+      "Respiratory",
+      "Digestive",
+      "Nervous"
+     ],
+     "answer": 0,
+     "explain": "The heart, blood, and blood vessels make up the circulatory system."
+    }
+   ]
+  },
+  {
+   "id": "cold",
+   "index": 2,
+   "title": "Cold Snap",
+   "subtitle": "A Winter Storm Hits",
+   "song": "frostbite",
+   "songTitle": "Frostbite Pulse",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 124,
+   "color": "#5CC8FF",
+   "accent": "#D6F3FF",
+   "stage": "stage_cold",
+   "theme": "cold",
+   "intro": [
+    {
+     "art": "cold_outside",
+     "move": "panR",
+     "fx": "snow",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "cold",
+       "text": "Brrr! The body just stepped out into a snowstorm.",
+       "voice": "v_284fb0c152"
+      }
+     ]
+    },
+    {
+     "art": "cold_inside",
+     "move": "push",
+     "fx": "snow",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "thinking",
+       "text": "Look, the blood vessels near the skin are narrowing to keep the warmth inside.",
+       "voice": "v_bd4ae7875d"
+      },
+      {
+       "speaker": "B",
+       "mood": "cold",
+       "text": "The muscles are shivering to make heat, and they need extra fuel to do it.",
+       "voice": "v_67863117a1"
+      }
+     ]
+    }
+   ],
+   "decision": {
+    "prompt": "It's getting really cold. How should the heart respond?",
+    "correct": "faster",
+    "vitals": [
+     {
+      "label": "Body temperature",
+      "value": "35.6 °C",
+      "trend": "down"
+     },
+     {
+      "label": "Skin vessels",
+      "value": "Narrowed",
+      "trend": "warn"
+     },
+     {
+      "label": "Muscles",
+      "value": "Shivering",
+      "trend": "warn"
+     }
+    ],
+    "feedback": [
+     {
+      "choice": "slower",
+      "shots": [
+       {
+        "art": "cold_wrong",
+        "move": "sink",
+        "fx": "snow",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "Uh-oh! With a slower beat, warm blood can't reach the core fast enough. The body's getting colder!",
+          "voice": "v_cd273afe9a"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "choice": "same",
+      "shots": [
+       {
+        "art": "cold_wrong",
+        "move": "sink",
+        "fx": "snow",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "Hmm, the same pace isn't enough. Shivering muscles are burning fuel and need more blood.",
+          "voice": "v_3ffeb699fe"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "right": [
+     {
+      "speaker": "B",
+      "mood": "excited",
+      "text": "That's it! The heart needs to beat faster when it's cold to keep the body warm. Let's go!",
+      "voice": "v_74f65fc983"
+     }
+    ]
+   },
+   "win": [
+    {
+     "art": "cold_win",
+     "move": "pull",
+     "fx": "embers",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Fantastic! Warm blood is flowing to the core. The body's holding on to its heat.",
+       "voice": "v_fb9f8eed66"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "cold_wrong",
+     "move": "drift",
+     "fx": "snow",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "worried",
+       "text": "We kept the body going, but the rhythm slipped. A steadier beat would keep it warmer.",
+       "voice": "v_2da0f10ae3"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "To keep warm in a cold environment, the heart should…",
+     "options": [
+      "Beat faster",
+      "Beat slower",
+      "Stop temporarily",
+      "Keep exactly the same rhythm"
+     ],
+     "answer": 0,
+     "explain": "A faster heartbeat moves warm blood to the core while shivering muscles make heat."
+    }
+   ]
+  },
+  {
+   "id": "exercise",
+   "index": 3,
+   "title": "Full Sprint",
+   "subtitle": "Race Day",
+   "song": "sprint",
+   "songTitle": "Sprint Circuit",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 150,
+   "color": "#FF9A3C",
+   "accent": "#FFE3C7",
+   "stage": "stage_exercise",
+   "theme": "fire",
+   "intro": [
+    {
+     "art": "exercise_outside",
+     "move": "panL",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Time to get moving! The body's running a race.",
+       "voice": "v_9579524f87"
+      }
+     ]
+    },
+    {
+     "art": "exercise_inside",
+     "move": "push",
+     "fx": "cells",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "thinking",
+       "text": "Working muscles need lots of oxygen, and the lungs are breathing faster to bring it in.",
+       "voice": "v_43d834ceb5"
+      }
+     ]
+    }
+   ],
+   "decision": {
+    "prompt": "The muscles are calling for more oxygen. How should the heart respond?",
+    "correct": "faster",
+    "vitals": [
+     {
+      "label": "Breathing",
+      "value": "Fast",
+      "trend": "up"
+     },
+     {
+      "label": "Muscle oxygen demand",
+      "value": "Very high",
+      "trend": "warn"
+     },
+     {
+      "label": "Carbon dioxide",
+      "value": "Rising",
+      "trend": "up"
+     }
+    ],
+    "feedback": [
+     {
+      "choice": "slower",
+      "shots": [
+       {
+        "art": "exercise_wrong",
+        "move": "sink",
+        "fx": "",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "Oh no, the legs feel heavy! Without enough oxygen, the muscles tire out fast.",
+          "voice": "v_aefa57b5c2"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "choice": "same",
+      "shots": [
+       {
+        "art": "exercise_wrong",
+        "move": "sink",
+        "fx": "",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "Looks like not enough oxygen is getting to the limbs. Better speed it up!",
+          "voice": "v_80e45c8e12"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "right": [
+     {
+      "speaker": "B",
+      "mood": "excited",
+      "text": "Exactly! A faster heartbeat delivers more oxygen to the muscles. Let's race!",
+      "voice": "v_4ca5108616"
+     }
+    ]
+   },
+   "win": [
+    {
+     "art": "exercise_win",
+     "move": "pull",
+     "fx": "confetti",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "That fast heart rate is exactly what we needed to send enough oxygen around. What a finish!",
+       "voice": "v_a7201b2aeb"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "exercise_wrong",
+     "move": "drift",
+     "fx": "",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "worried",
+       "text": "We crossed the line, but the muscles ran low on oxygen. A stronger rhythm will power them up.",
+       "voice": "v_3b870f301e"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The heart beats faster during exercise to deliver more ___ to the muscles.",
+     "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Lactic acid",
+      "Calcium"
+     ],
+     "answer": 0,
+     "explain": "Red blood cells carry oxygen. A faster heart delivers more of it every minute."
+    }
+   ]
+  },
+  {
+   "id": "sickness",
+   "index": 4,
+   "title": "Fever Front",
+   "subtitle": "Germs Have Broken In",
+   "song": "fever",
+   "songTitle": "Fever Front",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 140,
+   "color": "#7DFF6B",
+   "accent": "#E2FFD9",
+   "stage": "stage_sickness",
+   "theme": "toxic",
+   "intro": [
+    {
+     "art": "sick_outside",
+     "move": "drift",
+     "fx": "",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "worried",
+       "text": "Uh-oh, the body is sick. Germs have slipped past the defenses.",
+       "voice": "v_f18d32bc04"
+      }
+     ]
+    },
+    {
+     "art": "sick_inside",
+     "move": "push",
+     "fx": "germs",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "thinking",
+       "text": "The body's turning up the heat with a fever, and the white blood cells are getting ready to fight.",
+       "voice": "v_e41e6adad4"
+      }
+     ]
+    }
+   ],
+   "decision": {
+    "prompt": "The immune system needs backup. How should the heart respond?",
+    "correct": "faster",
+    "vitals": [
+     {
+      "label": "Temperature",
+      "value": "38.9 °C",
+      "trend": "up"
+     },
+     {
+      "label": "Germs",
+      "value": "Multiplying",
+      "trend": "warn"
+     },
+     {
+      "label": "White blood cells",
+      "value": "Mobilizing",
+      "trend": "up"
+     }
+    ],
+    "feedback": [
+     {
+      "choice": "slower",
+      "shots": [
+       {
+        "art": "sick_wrong",
+        "move": "sink",
+        "fx": "germs",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "The white blood cells can't reach the germs in time! The infection is spreading.",
+          "voice": "v_d4da484564"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "choice": "same",
+      "shots": [
+       {
+        "art": "sick_wrong",
+        "move": "sink",
+        "fx": "germs",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "The defenders are moving too slowly. The heart must work harder to fight off illness.",
+          "voice": "v_9797d178f0"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "right": [
+     {
+      "speaker": "B",
+      "mood": "excited",
+      "text": "Great! A faster heart rate carries the defenders where they are needed. Charge!",
+      "voice": "v_a01bbccce5"
+     }
+    ]
+   },
+   "win": [
+    {
+     "art": "sick_win",
+     "move": "pull",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "We did it! The fever's breaking and the germs are on the run.",
+       "voice": "v_e48544e70f"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "sick_wrong",
+     "move": "drift",
+     "fx": "germs",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "worried",
+       "text": "The body's still fighting. A stronger rhythm would get the defenders there faster.",
+       "voice": "v_83d7bb1fb5"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "When the body has a fever and is fighting germs, the heart usually…",
+     "options": [
+      "Beats faster",
+      "Beats slower",
+      "Takes a break",
+      "Beats only at night"
+     ],
+     "answer": 0,
+     "explain": "A faster heartbeat helps rush white blood cells to fight the infection."
+    }
+   ]
+  },
+  {
+   "id": "sleep",
+   "index": 5,
+   "title": "Night Tide",
+   "subtitle": "Lights Out",
+   "song": "night_tide",
+   "songTitle": "Night Tide",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 72,
+   "color": "#9D8CFF",
+   "accent": "#E6E1FF",
+   "stage": "stage_sleep",
+   "theme": "night",
+   "intro": [
+    {
+     "art": "sleep_outside",
+     "move": "drift",
+     "fx": "stars",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "sleepy",
+       "text": "Shh… it's bedtime. The body's had a long, busy day.",
+       "voice": "v_0d7dcfcc97"
+      }
+     ]
+    },
+    {
+     "art": "sleep_inside",
+     "move": "push",
+     "fx": "stars",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "thinking",
+       "text": "While we sleep, the body repairs muscles and stores energy for tomorrow.",
+       "voice": "v_878efcab2d"
+      }
+     ]
+    }
+   ],
+   "decision": {
+    "prompt": "Help the heart get a good night's rest. How should it respond?",
+    "correct": "slower",
+    "vitals": [
+     {
+      "label": "Activity",
+      "value": "Resting",
+      "trend": "down"
+     },
+     {
+      "label": "Oxygen demand",
+      "value": "Low",
+      "trend": "down"
+     },
+     {
+      "label": "Repair mode",
+      "value": "On",
+      "trend": "ok"
+     }
+    ],
+    "feedback": [
+     {
+      "choice": "faster",
+      "shots": [
+       {
+        "art": "sleep_wrong",
+        "move": "sink",
+        "fx": "",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "worried",
+          "text": "Too fast! Heartbeats should be slower to let the body sleep.",
+          "voice": "v_e069c9e00c"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "choice": "same",
+      "shots": [
+       {
+        "art": "sleep_wrong",
+        "move": "sink",
+        "fx": "",
+        "tint": "#FFFFFF",
+        "lines": [
+         {
+          "speaker": "B",
+          "mood": "thinking",
+          "text": "Hmm, the body doesn't need daytime power right now. It's time to slow down.",
+          "voice": "v_82abb10470"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "right": [
+     {
+      "speaker": "B",
+      "mood": "sleepy",
+      "text": "Perfect. During sleep, the heart rate slows down to help the body recover and rest.",
+      "voice": "v_7b2fceb5c5"
+     }
+    ]
+   },
+   "win": [
+    {
+     "art": "sleep_win",
+     "move": "rise",
+     "fx": "embers",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Good morning! The body woke up fully recharged.",
+       "voice": "v_eb66353032"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "sleep_wrong",
+     "move": "drift",
+     "fx": "",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "sleepy",
+       "text": "A few bumps in the night… a calmer rhythm will help the body rest.",
+       "voice": "v_2ac5e2d7f0"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "During ___, the heart rate slows down to help the body recover and rest.",
+     "options": [
+      "Sleep",
+      "Exercise",
+      "Stress",
+      "Fear"
+     ],
+     "answer": 0,
+     "explain": "Asleep, the body needs less oxygen, so the heart can slow down and save energy."
+    }
+   ]
+  },
+  {
+   "id": "finale",
+   "index": 6,
+   "title": "Symphony of the Heart",
+   "subtitle": "Every Beat Together",
+   "song": "symphony",
+   "songTitle": "Symphony of the Heart",
+   "artist": "Game Heart Sound Team",
+   "bpmHint": 128,
+   "color": "#FF4FD8",
+   "accent": "#FFD9F6",
+   "stage": "stage_finale",
+   "theme": "finale",
+   "intro": [
+    {
+     "art": "finale",
+     "move": "rise",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Explorer, look how far we've come. Cold, exercise, fever, and sleep.",
+       "voice": "v_c0e32dd880"
+      },
+      {
+       "speaker": "B",
+       "mood": "thinking",
+       "text": "Every situation needed a different rhythm, and you found the right one each time.",
+       "voice": "v_aa79926602"
+      },
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Now let's play the heart's whole story, from the very first beat!",
+       "voice": "v_59708f0df0"
+      }
+     ]
+    }
+   ],
+   "decision": null,
+   "win": [
+    {
+     "art": "ending",
+     "move": "pull",
+     "fx": "confetti",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Fantastic work! You've mastered the art of controlling the heart's rhythm.",
+       "voice": "v_fc1086cc9f"
+      },
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Remember, your heart is always working, adjusting to keep you healthy and strong.",
+       "voice": "v_0b77ea410b"
+      },
+      {
+       "speaker": "B",
+       "mood": "neutral",
+       "text": "Every beat pushes life-giving blood, oxygen, and nutrients to where they're needed.",
+       "voice": "v_a7fa7177b0"
+      },
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Now let's head for our next station and continue exploring!",
+       "voice": "v_510806eccf"
+      }
+     ]
+    }
+   ],
+   "struggle": [
+    {
+     "art": "ending",
+     "move": "pull",
+     "fx": "sparks",
+     "tint": "#FFFFFF",
+     "lines": [
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "What a performance! The heart kept going all the way through.",
+       "voice": "v_affe165000"
+      },
+      {
+       "speaker": "B",
+       "mood": "happy",
+       "text": "Remember, your heart is always working, adjusting to keep you healthy and strong.",
+       "voice": "v_0b77ea410b"
+      },
+      {
+       "speaker": "B",
+       "mood": "excited",
+       "text": "Now let's head for our next station and continue exploring!",
+       "voice": "v_510806eccf"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "About how many times does a heart beat in one day?",
+     "options": [
+      "About 100,000 times",
+      "About 100 times",
+      "About 1,000 times",
+      "About 10 million times"
+     ],
+     "answer": 0,
+     "explain": "At around 70 beats per minute, a heart beats roughly 100,000 times every day."
+    }
+   ]
+  }
+ ],
+ "barks": [
+  {
+   "key": "bark_fullcombo",
+   "line": {
+    "speaker": "B",
+    "mood": "excited",
+    "text": "Full combo! Perfect rhythm!",
+    "voice": "v_887548caa4"
+   }
+  },
+  {
+   "key": "bark_clear",
+   "line": {
+    "speaker": "B",
+    "mood": "happy",
+    "text": "Rhythm restored!",
+    "voice": "v_a674d40ee7"
+   }
+  },
+  {
+   "key": "bark_fail",
+   "line": {
+    "speaker": "B",
+    "mood": "worried",
+    "text": "Hang in there, we'll get it next time.",
+    "voice": "v_ca8d0385f8"
+   }
+  },
+  {
+   "key": "bark_choose",
+   "line": {
+    "speaker": "B",
+    "mood": "thinking",
+    "text": "What does the body need? Choose the heart's rhythm.",
+    "voice": "v_41507d6142"
+   }
+  },
+  {
+   "key": "bark_quiz",
+   "line": {
+    "speaker": "B",
+    "mood": "happy",
+    "text": "Pulse check! Let us see what you learned.",
+    "voice": "v_cda33beab2"
+   }
+  },
+  {
+   "key": "bark_correct",
+   "line": {
+    "speaker": "B",
+    "mood": "excited",
+    "text": "Correct!",
+    "voice": "v_98a04ae3e9"
+   }
+  },
+  {
+   "key": "bark_wrong",
+   "line": {
+    "speaker": "B",
+    "mood": "thinking",
+    "text": "Not quite. Here is why.",
+    "voice": "v_f21c99348c"
+   }
+  }
+ ]
+}

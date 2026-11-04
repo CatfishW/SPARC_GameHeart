@@ -1,0 +1,9 @@
+{
+  "name": "gameheart-qa",
+  "private": true,
+  "type": "module",
+  "description": "Headless Chrome QA drivers for the Game Heart WebGL build",
+  "dependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}

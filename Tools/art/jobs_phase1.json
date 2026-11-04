@@ -1,0 +1,436 @@
+[
+ {
+  "id": "key_art__101",
+  "prompt": "Epic key art: a colossal glowing human heart floating in a vast crimson cavern, microscopic world inside the human body, rivers of glowing red blood cells spiraling around it, a tiny white nano-submarine with headlights approaching, god rays, dark empty space in the lower third, majestic. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "key_art__202",
+  "prompt": "Epic key art: a colossal glowing human heart floating in a vast crimson cavern, microscopic world inside the human body, rivers of glowing red blood cells spiraling around it, a tiny white nano-submarine with headlights approaching, god rays, dark empty space in the lower third, majestic. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "prologue_ship__101",
+  "prompt": "View from the cockpit window of a tiny white nano-submarine traveling through a glowing red artery tunnel, microscopic world inside the human body, many red blood cells shaped like biconcave discs drifting past, warm light at the end of the tunnel, sense of speed. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "prologue_ship__202",
+  "prompt": "View from the cockpit window of a tiny white nano-submarine traveling through a glowing red artery tunnel, microscopic world inside the human body, many red blood cells shaped like biconcave discs drifting past, warm light at the end of the tunnel, sense of speed. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "heart_reveal__101",
+  "prompt": "A gigantic human heart revealed inside a cathedral-like chest cavity, glowing arteries and veins, ribs arching like pillars, a tiny white nano-submarine for scale, awe, crimson and gold light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "heart_reveal__202",
+  "prompt": "A gigantic human heart revealed inside a cathedral-like chest cavity, glowing arteries and veins, ribs arching like pillars, a tiny white nano-submarine for scale, awe, crimson and gold light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "control_center__101",
+  "prompt": "Futuristic heartbeat control center inside the heart, curved holographic screens showing glowing ECG heartbeat lines, a bright pulsing electric spark node in the center, organic red walls with glowing circuits, cozy sci-fi cockpit, teal holograms against crimson. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "control_center__202",
+  "prompt": "Futuristic heartbeat control center inside the heart, curved holographic screens showing glowing ECG heartbeat lines, a bright pulsing electric spark node in the center, organic red walls with glowing circuits, cozy sci-fi cockpit, teal holograms against crimson. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "cold_outside__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a puffy red winter coat and scarf walking through a snowstorm at dusk, breath fogging, snowy town street, cold blue light, warm windows in the background. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "cold_outside__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a puffy red winter coat and scarf walking through a snowstorm at dusk, breath fogging, snowy town street, cold blue light, warm windows in the background. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "cold_inside__101",
+  "prompt": "Inside a narrowed blood vessel near the skin, frost crystals forming on glowing red vessel walls, icy blue light, red blood cells squeezing through, cold mist, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "cold_inside__202",
+  "prompt": "Inside a narrowed blood vessel near the skin, frost crystals forming on glowing red vessel walls, icy blue light, red blood cells squeezing through, cold mist, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "cold_wrong__101",
+  "prompt": "A frozen blood vessel, sluggish dim red blood cells covered in ice crystals, everything turning pale blue and dark, flickering red warning light, ominous cold, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "cold_wrong__202",
+  "prompt": "A frozen blood vessel, sluggish dim red blood cells covered in ice crystals, everything turning pale blue and dark, flickering red warning light, ominous cold, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "cold_win__101",
+  "prompt": "Warm golden blood flowing through glowing vessels, melting frost turning into droplets, cozy amber light, red blood cells rushing happily, warmth spreading, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "cold_win__202",
+  "prompt": "Warm golden blood flowing through glowing vessels, melting frost turning into droplets, cozy amber light, red blood cells rushing happily, warmth spreading, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "exercise_outside__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a sports jersey sprinting on a red running track in a sunny stadium, motion blur, cheering crowd, dynamic low angle, summer light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "exercise_outside__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a sports jersey sprinting on a red running track in a sunny stadium, motion blur, cheering crowd, dynamic low angle, summer light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "exercise_inside__101",
+  "prompt": "Inside a working leg muscle, glowing orange muscle fibers flexing like cables, streams of bright red blood cells rushing in through capillaries carrying oxygen bubbles, energetic sparks, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "exercise_inside__202",
+  "prompt": "Inside a working leg muscle, glowing orange muscle fibers flexing like cables, streams of bright red blood cells rushing in through capillaries carrying oxygen bubbles, energetic sparks, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "exercise_wrong__101",
+  "prompt": "Tired muscle fibers dimming to grey, only a few red blood cells trickling in, heavy fog, exhausted feeling, dim orange warning lights, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "exercise_wrong__202",
+  "prompt": "Tired muscle fibers dimming to grey, only a few red blood cells trickling in, heavy fog, exhausted feeling, dim orange warning lights, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "exercise_win__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a sports jersey crossing the finish line with arms raised in joy, confetti, sunny stadium, golden light, triumphant. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "exercise_win__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin in a sports jersey crossing the finish line with arms raised in joy, confetti, sunny stadium, golden light, triumphant. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sick_outside__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin lying sick in bed with a thermometer, flushed cheeks, cozy bedroom, cup of tea and tissues on the nightstand, soft afternoon light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sick_outside__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin lying sick in bed with a thermometer, flushed cheeks, cozy bedroom, cup of tea and tissues on the nightstand, soft afternoon light. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sick_inside__101",
+  "prompt": "Inside a blood vessel, spiky green germs swarming, brave round white blood cells charging toward them, dramatic battle lighting, green and crimson glow, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sick_inside__202",
+  "prompt": "Inside a blood vessel, spiky green germs swarming, brave round white blood cells charging toward them, dramatic battle lighting, green and crimson glow, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sick_wrong__101",
+  "prompt": "Green germs multiplying and spreading everywhere inside a blood vessel, a few white blood cells stuck far behind, sickly green haze, ominous red warning glow, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sick_wrong__202",
+  "prompt": "Green germs multiplying and spreading everywhere inside a blood vessel, a few white blood cells stuck far behind, sickly green haze, ominous red warning glow, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sick_win__101",
+  "prompt": "Inside a blood vessel, victorious white blood cells, defeated green germs dissolving into sparkles, clean bright red vessel walls, triumphant warm light, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sick_win__202",
+  "prompt": "Inside a blood vessel, victorious white blood cells, defeated green germs dissolving into sparkles, clean bright red vessel walls, triumphant warm light, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sleep_outside__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin sleeping peacefully in a cozy bedroom at night, moonlight through the window, stars, soft blue and purple tones, a small night lamp. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sleep_outside__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin sleeping peacefully in a cozy bedroom at night, moonlight through the window, stars, soft blue and purple tones, a small night lamp. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sleep_inside__101",
+  "prompt": "Calm deep indigo blood vessels at night with soft glowing repair particles mending muscle fibers, slow drifting red blood cells, dreamy and serene, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sleep_inside__202",
+  "prompt": "Calm deep indigo blood vessels at night with soft glowing repair particles mending muscle fibers, slow drifting red blood cells, dreamy and serene, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sleep_wrong__101",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin tossing and turning in bed at night, wide awake, messy blankets, alarm clock glowing red, restless mood. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sleep_wrong__202",
+  "prompt": "a cheerful 10-year-old child with short curly black hair and warm brown skin tossing and turning in bed at night, wide awake, messy blankets, alarm clock glowing red, restless mood. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "sleep_win__101",
+  "prompt": "Sunrise through a bedroom window, a cheerful 10-year-old child with short curly black hair and warm brown skin stretching happily in bed after a good sleep, golden morning light, birds outside. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "sleep_win__202",
+  "prompt": "Sunrise through a bedroom window, a cheerful 10-year-old child with short curly black hair and warm brown skin stretching happily in bed after a good sleep, golden morning light, birds outside. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "finale__101",
+  "prompt": "A magnificent human heart glowing with rainbow light, four swirling rivers of light around it in icy blue, fiery orange, emerald green and starry violet, celebration, epic, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "finale__202",
+  "prompt": "A magnificent human heart glowing with rainbow light, four swirling rivers of light around it in icy blue, fiery orange, emerald green and starry violet, celebration, epic, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "ending__101",
+  "prompt": "A tiny white nano-submarine sailing away from a glowing heart through a bright artery toward a new adventure, warm sunrise light at the end of the tunnel, hopeful farewell, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 101
+ },
+ {
+  "id": "ending__202",
+  "prompt": "A tiny white nano-submarine sailing away from a glowing heart through a bright artery toward a new adventure, warm sunrise light at the end of the tunnel, hopeful farewell, microscopic world inside the human body. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 202
+ },
+ {
+  "id": "stage_tutorial__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, warm crimson and coral light, a few red blood cells drifting. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_tutorial__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, warm crimson and coral light, a few red blood cells drifting. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "stage_cold__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, frost and ice crystals on the walls, icy blue and teal light, drifting snow-like particles. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_cold__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, frost and ice crystals on the walls, icy blue and teal light, drifting snow-like particles. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "stage_exercise__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, fiery orange and red energy, glowing speed streaks along the walls. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_exercise__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, fiery orange and red energy, glowing speed streaks along the walls. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "stage_sickness__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, toxic green haze, small spiky germs clinging to the walls, crimson accents. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_sickness__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, toxic green haze, small spiky germs clinging to the walls, crimson accents. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "stage_sleep__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, deep indigo and violet, tiny star-like glowing particles, dreamy calm. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_sleep__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, deep indigo and violet, tiny star-like glowing particles, dreamy calm. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "stage_finale__303",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, prismatic rainbow light, magenta and gold, celebration sparkles. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "stage_finale__404",
+  "prompt": "Looking straight down a long round blood vessel tunnel, perfectly symmetrical, vanishing point exactly in the center, dark low-contrast center, glowing ribbed walls, cinematic, microscopic world inside the human body, prismatic rainbow light, magenta and gold, celebration sparkles. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "hub_bodymap__303",
+  "prompt": "A holographic glowing human body silhouette standing in a dark sci-fi lab, glowing circulatory system with a bright heart at the center, teal and crimson holograms, centered, lots of dark negative space, no text. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 303
+ },
+ {
+  "id": "hub_bodymap__404",
+  "prompt": "A holographic glowing human body silhouette standing in a dark sci-fi lab, glowing circulatory system with a bright heart at the center, teal and crimson holograms, centered, lots of dark negative space, no text. cinematic stylized 3D animated feature film still, soft volumetric lighting, glowing bioluminescent details, rich crimson coral and teal palette, highly detailed, depth of field, no text, no watermark",
+  "width": 1344,
+  "height": 768,
+  "seed": 404
+ },
+ {
+  "id": "captain_neutral__11",
+  "prompt": "Character portrait, waist-up, a friendly young explorer captain, a man in his late twenties with short spiky auburn hair, brass goggles pushed up on his forehead, white and crimson nano-suit with a glowing heart emblem on the chest, stylized 3D animated film character, facing the viewer, centered, plain flat bright green background, calm confident smile",
+  "width": 896,
+  "height": 1152,
+  "seed": 11
+ },
+ {
+  "id": "captain_neutral__22",
+  "prompt": "Character portrait, waist-up, a friendly young explorer captain, a man in his late twenties with short spiky auburn hair, brass goggles pushed up on his forehead, white and crimson nano-suit with a glowing heart emblem on the chest, stylized 3D animated film character, facing the viewer, centered, plain flat bright green background, calm confident smile",
+  "width": 896,
+  "height": 1152,
+  "seed": 22
+ },
+ {
+  "id": "captain_neutral__33",
+  "prompt": "Character portrait, waist-up, a friendly young explorer captain, a man in his late twenties with short spiky auburn hair, brass goggles pushed up on his forehead, white and crimson nano-suit with a glowing heart emblem on the chest, stylized 3D animated film character, facing the viewer, centered, plain flat bright green background, calm confident smile",
+  "width": 896,
+  "height": 1152,
+  "seed": 33
+ },
+ {
+  "id": "captain_neutral__44",
+  "prompt": "Character portrait, waist-up, a friendly young explorer captain, a man in his late twenties with short spiky auburn hair, brass goggles pushed up on his forehead, white and crimson nano-suit with a glowing heart emblem on the chest, stylized 3D animated film character, facing the viewer, centered, plain flat bright green background, calm confident smile",
+  "width": 896,
+  "height": 1152,
+  "seed": 44
+ }
+]

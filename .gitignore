@@ -1,0 +1,75 @@
+# ---- Unity generated ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.userprefs
+*.booproj
+*.pdb
+*.mdb
+.vs/
+.vscode/
+.idea/
+sysinfo.txt
+crashlytics-build.properties
+
+# ---- local QA / scratch ----
+/QA/
+/_probe/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+node_modules
+Tools/qa/package-lock.json
+
+# ---- generation intermediates (regenerable; only chosen sources are kept) ----
+# music: keep the 14 chosen YuE2 takes + Whisper word-timing caches
+/Tools/music/raw/*
+!/Tools/music/raw/first_beat_s1101.flac
+!/Tools/music/raw/frostbite_s2201.flac
+!/Tools/music/raw/sprint_s3301.flac
+!/Tools/music/raw/fever_s4401.flac
+!/Tools/music/raw/night_tide_s5501.flac
+!/Tools/music/raw/symphony_s6602.flac
+!/Tools/music/raw/title_theme_s7701.flac
+!/Tools/music/raw/control_center_s8801.flac
+!/Tools/music/raw/first_beat_inst_s9101.flac
+!/Tools/music/raw/frostbite_inst_s9202.flac
+!/Tools/music/raw/sprint_inst_s9301.flac
+!/Tools/music/raw/fever_inst_s9401.flac
+!/Tools/music/raw/night_tide_inst_s9501.flac
+!/Tools/music/raw/symphony_inst_s9601.flac
+/Tools/music/work/*
+!/Tools/music/work/*.words.json
+Tools/music/job_*.json
+
+# voice: keep Qwen3-TTS raw takes + QA reports; the mastered WAVs live in Assets/Resources/Voice
+/Tools/voice/raw/
+/Tools/voice/backups/
+/Tools/voice/qwen3/auditions/
+/Tools/voice/qwen3/rejected-takes/
+/Tools/voice/qwen3/mastered/*.wav
+/Tools/voice/qwen3/mastered/.asr-cache/
+
+# art: keep only the picked source images (see Tools/art/pack_art.py)
+/Tools/art/*.jpg
+/Tools/art/raw/*
+!/Tools/art/raw/key_art__101.png
+!/Tools/art/raw/stage_*__303.png
+!/Tools/art/raw/hub_bodymap__404.png
+/Tools/art/gpt/*
+!/Tools/art/gpt/*.json
+!/Tools/art/gpt/g_*.png
+!/Tools/art/gpt/kid_*.png
+!/Tools/art/gpt/captain_*.png
+/Tools/art/gpt/captain_test*
+/Tools/art/gpt/*_view.jpg

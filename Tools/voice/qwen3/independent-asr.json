@@ -1,0 +1,9 @@
+{
+  "id": "v_b0571f184f",
+  "audio_sha256": "64bfebc896cb2f9f2a6fd8ba806ff28bc517c2e83179d8ae9726f9f84977c48c",
+  "asr_model": "Systran/faster-whisper-medium.en",
+  "text": "Not bad for a first try! Watch the beatline and keep your taps steady.",
+  "initial_prompt": null,
+  "hotwords": null,
+  "beam_size": 5
+}

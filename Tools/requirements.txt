@@ -1,0 +1,8 @@
+# Python 3.12 analysis / content pipeline (music mastering + charts, voice QA, art packing, SFX)
+numpy
+scipy
+soundfile
+librosa
+Pillow
+fonttools
+mlx-whisper ; sys_platform == "darwin"   # lyric/word timing + voice QA on Apple Silicon

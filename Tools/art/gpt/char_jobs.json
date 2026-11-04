@@ -1,0 +1,106 @@
+[
+ {
+  "id": "captain_happy",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: warm friendly open smile, relaxed welcoming pose, one hand raised in a small wave."
+ },
+ {
+  "id": "captain_excited",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: huge excited grin, one fist raised in triumph, eyes sparkling with energy."
+ },
+ {
+  "id": "captain_worried",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: worried expression, eyebrows raised and pinched, a hand on the back of his head."
+ },
+ {
+  "id": "captain_thinking",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: thoughtful expression, finger on his chin, looking slightly up and to the side."
+ },
+ {
+  "id": "captain_cold",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: shivering with cold, rubbing his arms, teeth chattering, light frost on his goggles, a red knitted scarf around his neck."
+ },
+ {
+  "id": "captain_sleepy",
+  "size": "1024x1536",
+  "refs": [
+   "gpt/captain_base.png"
+  ],
+  "prompt": "Keep exactly the same character from the reference image: same face, auburn spiky hair, brass goggles on the forehead, white and crimson suit with glowing heart emblem, same stylized 3D animated film look. Waist-up, facing the viewer, centered with margin. Background: perfectly flat solid pure green (#00FF00), no glow, no shadow. New expression and pose: sleepy expression, half-closed eyes, yawning with one hand over his mouth."
+ },
+ {
+  "id": "kid_cold_outside",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, wearing a puffy red winter coat over the yellow hoodie, a knitted scarf and mittens, walks through a heavy snowstorm on a snowy town street at dusk, shivering, breath fogging, cold blue light with warm glowing windows behind."
+ },
+ {
+  "id": "kid_exercise_outside",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, in a red sports jersey and running shorts, sprints on a red running track in a sunny stadium, determined face, motion blur, cheering crowd, dynamic low angle."
+ },
+ {
+  "id": "kid_exercise_win",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, in a red sports jersey, bursts through the finish-line ribbon with both arms raised in joy, confetti in the air, golden late-afternoon stadium light."
+ },
+ {
+  "id": "kid_sick_outside",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child lies sick in bed under a cozy blanket with a thermometer in the mouth, flushed cheeks, tired eyes, cup of tea and tissues on the nightstand, soft afternoon light through curtains."
+ },
+ {
+  "id": "kid_sleep_outside",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, in blue star-pattern pajamas, sleeps peacefully in a cozy bedroom at night, moonlight through the window, soft blue and violet tones, a small warm night lamp."
+ },
+ {
+  "id": "kid_sleep_wrong",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, in blue star-pattern pajamas, tosses and turns in bed at night, wide awake and restless, messy blankets, an alarm clock glowing red, uneasy mood."
+ },
+ {
+  "id": "kid_sleep_win",
+  "size": "1536x1024",
+  "refs": [
+   "gpt/kid_ref.png"
+  ],
+  "prompt": "Cinematic still from a 3D animated feature film, soft volumetric lighting, rich color, highly detailed, 16:9 wide shot, no text. The child must be exactly the same character as the reference sheet: short curly black hair, warm brown skin, big brown eyes, gap-toothed smile. The child, in blue star-pattern pajamas, stretches happily in bed after a great sleep, sunrise pouring golden light through the window, birds outside."
+ }
+]
